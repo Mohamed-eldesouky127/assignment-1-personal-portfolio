@@ -1,0 +1,91 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f6fa;
+    color: #183b63;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #1c4d80;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+     max-width: 750px;
+      padding: 25px;
+    margin: 20px auto;
+}
+
+nav a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: #315f8d;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+div {
+    background-color: white;
+    padding: 25px;
+    margin: 20px auto;
+    border-radius: 12px;
+    max-width: 750px;
+}
+
+h2 {
+    color: #1c4d80;
+    border-bottom: 1px solid #d6e5f5;
+    padding-bottom: 10px;
+}
+
+#about img {
+    width: 10%;
+   float: left;
+   margin-right: 20px;
+    border-radius: 50%;
+}
+
+li{
+    display: inline-block;
+    margin-right: 20%;
+}
+.experience-card {
+    background-color: #f3f6fa;
+    padding: 15px;
+    margin: 15px ;
+    border-radius: 8px;
+}
+
+.experience-card h4 {
+    color: #0874b9;
+}
+#experience img{
+     width: 10%;
+   float: left;
+   margin-right: 20px;
+}
+
+#contact {
+    background-color: #1c4d80;
+    color: white;
+}
+
+#contact h2 {
+    color: white;
+    border-bottom-color: #52769b;
+}
+
+#contact a {
+    display: inline-block;
+    color: white;
+    background-color: #315f8d;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 6px;
+}
